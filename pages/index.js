@@ -16,6 +16,7 @@ export default function Home() {
           Welcome to the Beat Fleet distro site.
         </p>
       </main>
+    <A HREF="pages/beat1.js">Beat 1</A>
 
       <Footer />
     </div>
