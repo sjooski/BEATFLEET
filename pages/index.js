@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Beat Fleet" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Welcome to the Beat Fleet distro site.
         </p>
       </main>
 
